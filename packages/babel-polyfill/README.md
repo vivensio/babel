@@ -15,5 +15,5 @@ npm install --save @babel/polyfill
 or using yarn:
 
 ```sh
-yarn add --save @babel/polyfill
+yarn add @babel/polyfill
 ```
